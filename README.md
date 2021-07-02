@@ -8,4 +8,4 @@
 В дальнейшем проект будет дополняться технологиями по мере прохождения учебной программы.
 
 ## Ссылка на GitHub Pages
-[Ссылка на GitHub Pages](https://yansamoilov.github.io/mesto/index.html)
+[Ссылка на GitHub Pages](https://yansamoilov.github.io/mesto/)
