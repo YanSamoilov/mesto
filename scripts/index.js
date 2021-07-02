@@ -26,7 +26,7 @@ const cardAddPopupClassList = document.querySelector('#popup-add-card').classLis
 const initialCards = [
   {
     name: 'Большая голубая дыра',
-    link: '../images/bigBlue.jpg',
+    link: '../images/bigBlue.JPG',
     alt: 'Темное круглое пятно в океане, означающее, что там глубоко.'
   },
   {
